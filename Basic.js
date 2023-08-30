@@ -19,12 +19,12 @@ console.log(mul)
 
 
 
-// function addC(x, y) {
-//     return x + y
-// }
-// let q3 = addC(3, 2)
-// console.log(q3)
-// console.log(q3 + q3)
-// console.log(q3 - 2)
-// console.log(q3 * 0.10)
-// console.log(q3 / 5)
+//Type
+
+let P = "Yash"
+console.log(P)
+console.log(typeof p)
+
+let q = true
+console.log(q)
+console.log(typeof q)  
